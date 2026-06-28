@@ -1,33 +1,18 @@
 {
-  "name":             "\u0645\u0635\u062d\u0641 \u0627\u0644\u062a\u062f\u0628\u0631 \u0648\u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645",
-  "short_name":       "\u0645\u0635\u062d\u0641 \u0627\u0644\u062a\u062f\u0628\u0631",
-  "description":      "\u0631\u0641\u064a\u0642\u0643 \u0627\u0644\u064a\u0648\u0645\u064a \u0645\u0639 \u0643\u0644\u0627\u0645 \u0627\u0644\u0644\u0647 \u2014 \u0648\u0631\u062f \u064a\u0648\u0645\u064a\u060c \u062a\u0641\u0633\u064a\u0631\u060c \u0648\u062a\u062f\u0628\u0651\u0631",
-  "start_url":        "./index.html",
-  "scope":            "./",
-  "display":          "standalone",
-  "orientation":      "portrait-primary",
-  "theme_color":      "#0B0C10",
+  "name": "مصحف التدبر والالتزام",
+  "short_name": "التدبر والالتزام",
+  "description": "رفيقك الملكي الفاخر للالتزام بوردك القرآني وتدبره يومياً",
+  "start_url": "index.html",
+  "display": "standalone",
   "background_color": "#0B0C10",
-  "lang":             "ar",
-  "dir":              "rtl",
-  "categories":       ["education", "lifestyle"],
+  "theme_color": "#0B0C10",
+  "orientation": "portrait",
   "icons": [
-    { "src": "icons/icon-72.png",  "sizes": "72x72",   "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-96.png",  "sizes": "96x96",   "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-128.png", "sizes": "128x128", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-152.png", "sizes": "152x152", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icons/icon-384.png", "sizes": "384x384", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
-  ],
-  "shortcuts": [
     {
-      "name":        "\u0648\u0631\u062f \u0627\u0644\u064a\u0648\u0645",
-      "short_name":  "\u0627\u0642\u0631\u0623",
-      "description": "\u0627\u0628\u062f\u0623 \u0627\u0644\u0648\u0631\u062f \u0627\u0644\u064a\u0648\u0645\u064a \u0645\u0628\u0627\u0634\u0631\u0629",
-      "url":         "./index.html",
-      "icons":       [{ "src": "icons/icon-96.png", "sizes": "96x96" }]
+      "src": "https://cdn-icons-png.flaticon.com/512/2904/2904855.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
