@@ -8,10 +8,11 @@
   "theme_color": "#0B0C10",
   "orientation": "portrait",
   "icons": [
-  {
-    "src": "https://img.icons8.com/isometric-line/512/C5A059/quran.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any maskable"
-  }
-]
+    {
+      "src": "https://img.icons8.com/isometric-line/512/C5A059/quran.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
